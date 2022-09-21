@@ -12,7 +12,7 @@
   display: flex;
   flex-direction: column;
 
-  width: 250px;
+  width: 15%;
   height: 100vh;
   background-color: #7ebd31;
 }
@@ -63,6 +63,7 @@
 
 /*main*/
 .main {
+  width: 70%;
 }
 
 .header {
